@@ -1,1 +1,2 @@
-
+[dependencies]
+rand = "0.8"
